@@ -1,6 +1,6 @@
 - 👋 Hello, i am Adrien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Rust, nvim, tmux and deoxus!
+- 👀 I’m interested in TTRPGs, Writing, Reading, Badminton, Gaming and more!
+- 🌱 I’m currently learning Rust, nvim, tmux and deoxus! 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:  please contact me through the following email: adrienmassengo@outlook.com
 
